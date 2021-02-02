@@ -1,0 +1,14 @@
+.cardnewPgae .cardnewForm {
+  max-width: 500px;
+  margin: 70px auto 0;
+}
+.cardnewPgae .cardnewForm_title {
+  margin-bottom: 30px;
+}
+.cardeditPgae .cardeditForm {
+  max-width: 500px;
+  margin: 70px auto 0;
+}
+.cardeditPgae .cardeditForm_title, .cardeditPgae .cardeditForm_memo {
+  margin-bottom: 30px;
+}
